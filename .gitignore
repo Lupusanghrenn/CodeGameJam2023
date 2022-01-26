@@ -67,3 +67,7 @@ CodeGameJam/Library/
 CodeGameJam/Logs/
 
 CodeGameJam/Temp/
+
+CodeGameJam/obj/
+
+CodeGameJam/.vsconfig
